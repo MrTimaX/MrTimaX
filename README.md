@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MrTima
 - 👀 I’m interested in Whatsapp Bots
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Alpha Md Bot
-- 📫 How to reach me <a href="wa.me/94715264791">Whatsapp
+- 💞️ I’m looking to collaborate on <a href="htpps://github.com/ABLKSTUDIO">Alpha Md Bot
+- 📫 How to reach me <a href="htpps://wa.me/94715264791">Whatsapp
 
 <!---
 MrTimaX/MrTimaX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
